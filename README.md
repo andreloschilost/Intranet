@@ -1,0 +1,2 @@
+# Intranet
+nscd.conf
